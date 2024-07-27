@@ -1,0 +1,9 @@
+{
+  "extends": "react-app",
+  "globals": {
+    "process": true
+  },
+  "rules": {
+    "react/prop-types": 0
+  }
+}
